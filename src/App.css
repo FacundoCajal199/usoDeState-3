@@ -1,0 +1,20 @@
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #4158d0;
+  background-image: linear-gradient(
+    43deg,
+    #4158d0 10%,
+    #c850c0 90%
+  );
+  color: #fff;
+}
+
+.main {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
